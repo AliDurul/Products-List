@@ -1,6 +1,7 @@
 ## Welcome to My Project! 👋
 
 Thank you for visiting my projects! I'm thrilled to have you here, and I hope you find it interesting and helpful.
+![productList](https://github.com/AliDurul/Products-List/assets/80897590/77d4957a-1dfe-4a66-b43d-718092971039)
 
 ## About Me
 Firstly, I want to let you know that I am a  learner in the world of programming and development. I'm passionate about exploring different languages and technologies, and this project represents a part of my learning journey. So, please keep in mind that I'm still growing and improving my skills.
