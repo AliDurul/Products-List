@@ -50,9 +50,6 @@ In this project, data fetched from api using axios and filtered according to cat
   </ul>
 </div>
 
-
-[Visit Example.com](https://products-listt.vercel.app){:target="_blank"}
-
 [Live Link](https://products-listt.vercel.app)
 
 ![productList](https://github.com/AliDurul/Products-List/assets/80897590/77d4957a-1dfe-4a66-b43d-718092971039)
