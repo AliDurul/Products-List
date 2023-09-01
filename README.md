@@ -51,7 +51,7 @@ In this project, data fetched from api using axios and filtered according to cat
 </div>
 
 
-<a href="https://products-listt.vercel.app" target="_blank">Visit Example.com</a>
+[Visit Example.com](https://products-listt.vercel.app){:target="_blank"}
 
 [Live Link](https://products-listt.vercel.app)
 
